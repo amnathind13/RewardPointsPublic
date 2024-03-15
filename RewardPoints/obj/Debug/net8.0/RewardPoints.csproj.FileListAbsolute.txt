@@ -1,0 +1,14 @@
+D:\Programming\Free L\Own\RewardPoints\RewardPoints\bin\Debug\net8.0\RewardPoints.exe
+D:\Programming\Free L\Own\RewardPoints\RewardPoints\bin\Debug\net8.0\RewardPoints.deps.json
+D:\Programming\Free L\Own\RewardPoints\RewardPoints\bin\Debug\net8.0\RewardPoints.runtimeconfig.json
+D:\Programming\Free L\Own\RewardPoints\RewardPoints\bin\Debug\net8.0\RewardPoints.dll
+D:\Programming\Free L\Own\RewardPoints\RewardPoints\bin\Debug\net8.0\RewardPoints.pdb
+D:\Programming\Free L\Own\RewardPoints\RewardPoints\obj\Debug\net8.0\RewardPoints.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Free L\Own\RewardPoints\RewardPoints\obj\Debug\net8.0\RewardPoints.AssemblyInfoInputs.cache
+D:\Programming\Free L\Own\RewardPoints\RewardPoints\obj\Debug\net8.0\RewardPoints.AssemblyInfo.cs
+D:\Programming\Free L\Own\RewardPoints\RewardPoints\obj\Debug\net8.0\RewardPoints.csproj.CoreCompileInputs.cache
+D:\Programming\Free L\Own\RewardPoints\RewardPoints\obj\Debug\net8.0\RewardPoints.dll
+D:\Programming\Free L\Own\RewardPoints\RewardPoints\obj\Debug\net8.0\refint\RewardPoints.dll
+D:\Programming\Free L\Own\RewardPoints\RewardPoints\obj\Debug\net8.0\RewardPoints.pdb
+D:\Programming\Free L\Own\RewardPoints\RewardPoints\obj\Debug\net8.0\RewardPoints.genruntimeconfig.cache
+D:\Programming\Free L\Own\RewardPoints\RewardPoints\obj\Debug\net8.0\ref\RewardPoints.dll
